@@ -1,0 +1,1 @@
+print("La cerveza se llama: \n\'" + input("Cractersitica de tu cerveza: ") + " " + input("Dime tu apellido materno: ") + "\'")

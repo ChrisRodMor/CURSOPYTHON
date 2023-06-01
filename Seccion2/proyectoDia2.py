@@ -1,0 +1,1 @@
+print("Ok " + input("Ingresa tu nombre: ") + ", este mes ganaste $" + str(round(float(input("¿Cuanto fue de ventas? $"))*0.13,2)))
